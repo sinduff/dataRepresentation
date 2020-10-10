@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8">
+
+<!-- 
+XML script for Week 1 - Data Representation
+Assignment 1 - Create an XML file
+Submitted by Sinéad Duffy .. ID 10016151
+-->
+
+<Library_data>
+  <Book_details category="Technical" id="Bk01">
+	<Title>Learn to Write DAX</Title>
+	<ISBN>978-1-61547-041-9</ISBN>
+	<Author>Matt Allington</Author>
+  </Book_details>
+  <Book_details category="Cookery" id="Bk02">
+	<Title>A Change of Appitite</Title>
+	<ISBN>978-1-84533-784-1</ISBN>
+	<Author>Diana Henry</Author>
+  </Book_details>
+  <Book_details category="Technical" id="Bk03">
+	<Title>Learning PHP, MySQL & JavaScript</Title>
+	<ISBN>978-1-49-91866-1</ISBN>
+	<Author>Robin Nixon</Author>
+  </Book_details>
+  <Book_details category="Cookery" id="Bk04">
+	<Title>5 Ingredients</Title>
+	<ISBN>978-0-718-18772-9</ISBN>
+	<Author>Jamie Oliver</Author>
+  </Book_details>
+ </Library_data>
